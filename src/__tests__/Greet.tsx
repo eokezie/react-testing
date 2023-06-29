@@ -1,4 +1,4 @@
-import Greet from "./Greet";
+import Greet from "../components/Greet/Greet";
 import { render, screen } from "@testing-library/react";
 
 

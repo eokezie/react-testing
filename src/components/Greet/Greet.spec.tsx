@@ -11,4 +11,4 @@ describe('Greet', () => {
         expect(getText).toBeInTheDocument()
     });
 
-});
+})
